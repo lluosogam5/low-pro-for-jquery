@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Python refactorings and simplifications (#7549)
