@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Fix OBB xywh-angle concatenation bug (#7404)
