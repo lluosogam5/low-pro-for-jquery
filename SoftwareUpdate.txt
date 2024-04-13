@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Avoid creating -hub dir without processing images (#8334)
